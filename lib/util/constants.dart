@@ -1,5 +1,4 @@
-const likeDB = "liked_list";
-const DASHBOARD_SCREEN = '/feed_list_screen';
+const DASHBOARD_SCREEN = '/dashboard_screen';
 
 /// static values
 const SCREEN_WIDTH = 375.0;
